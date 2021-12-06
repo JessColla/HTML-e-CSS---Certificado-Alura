@@ -1,0 +1,44 @@
+.titulo1{
+   padding-left: 20px;
+}
+
+
+.principal{
+    background-color:rgb(201, 197, 197);
+    padding: 20px;
+}
+
+.titulo2 {
+    text-align: center;
+}
+
+.local {
+    text-align: center;
+}
+
+.missao {
+    font-size: 20px;
+    text-align: center;
+}
+.missao2{color: red;}
+
+.oferecimento {
+    text-align: center;
+}
+.banner{
+    width: 100%;
+}
+.itens{
+    font-style: italic;
+}
+.beneficios{
+    text-align: center;
+    padding: 20px;
+}
+.imgbeneficio{
+    width: 50%;
+}
+ul{display: inline-block;
+vertical-align:top;
+margin-right: 15%;}
+
